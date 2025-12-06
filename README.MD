@@ -1,3 +1,5 @@
+![SmartBankPro](smartbankpro.jpg)
+
 # 💳 SmartBankPro
 
 SmartBankPro, kullanıcıların kolayca hesap açabileceği, giriş yapabileceği ve işlemlerini yönetebileceği bir *banka simülasyonu* projesidir.  
