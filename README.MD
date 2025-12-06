@@ -7,7 +7,7 @@ Bu proje, JavaScript temellerini pekiştirmek amacıyla geliştirilmiştir.
 
 ## 🚀 Özellikler
 - Yeni müşteri ekleme  
-- Giriş yapma (isim + şifre ile)  
+- Giriş yapma (isim + şifre ile) 
 - Günlük işlem limiti tanımlama  
 - Risk puanı ve işlem geçmişi yönetimi  
 - Yanlış şifre girişlerinde hata mesajı
@@ -21,6 +21,10 @@ Bu proje, JavaScript temellerini pekiştirmek amacıyla geliştirilmiştir.
 
 ---
 
-## 📂 Dosya Yapısı
+## 👨‍💻 Geliştirici
+*Caner Yaray*  
+📍 İstanbul, Türkiye  
+💬 “Kod yazmak sadece bir iş değil, bir yolculuktur.”
+
 
 
